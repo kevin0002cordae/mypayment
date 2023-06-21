@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mypayment/static/css/main.6e96744b.css",
+    "main.js": "/mypayment/static/js/main.5a3c60d3.js",
+    "static/js/787.ca1c4923.chunk.js": "/mypayment/static/js/787.ca1c4923.chunk.js",
+    "static/media/Sasol_logo.png": "/mypayment/static/media/Sasol_logo.0375d0726ab6bd1e7f47.png",
+    "static/media/total.png": "/mypayment/static/media/total.7af3d72b3ec439ab43e9.png",
+    "static/media/bp.png": "/mypayment/static/media/bp.33127acf13416234e94d.png",
+    "static/media/engen-logo.png": "/mypayment/static/media/engen-logo.ee749490662a6f220958.png",
+    "static/media/shell.png": "/mypayment/static/media/shell.2328ff2cab8042125fdb.png",
+    "static/media/caltex.png": "/mypayment/static/media/caltex.85d5ce4e3e40b459cd42.png",
+    "index.html": "/mypayment/index.html",
+    "main.6e96744b.css.map": "/mypayment/static/css/main.6e96744b.css.map",
+    "main.5a3c60d3.js.map": "/mypayment/static/js/main.5a3c60d3.js.map",
+    "787.ca1c4923.chunk.js.map": "/mypayment/static/js/787.ca1c4923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e96744b.css",
+    "static/js/main.5a3c60d3.js"
+  ]
+}
